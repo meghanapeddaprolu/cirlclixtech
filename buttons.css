@@ -1,0 +1,19 @@
+.buttons{
+    
+    display:block;
+    position: relative;
+    background-color: #D9D9D9;
+    ;
+}
+.home{
+    background-color: #FF9B10;
+    width: 74.67px;
+    height: 32px;
+    top: 430px;
+    left: 17px;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0px;
+    position: absolute;
+    border-color: none;
+
+}
