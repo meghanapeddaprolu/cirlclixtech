@@ -2,16 +2,19 @@
     
     display: block;
     width:1368px;
-    height:558px;
+    height: 558px;
     top: -43px;
     padding-bottom: 500px;
     margin-top: 20px;
-    object-fit: cover; 
-    object-position: center;
+    object-fit:cover; 
+    object-position: centre;
     background-size: cover;
     overflow: hidden;
+    
+   
     
 }
 .first-pic-img-container{
     display: block;
+    
 }

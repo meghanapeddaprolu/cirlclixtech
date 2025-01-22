@@ -3,7 +3,8 @@
     display:block;
     position: relative;
     background-color: #D9D9D9;
-    ;
+    flex-direction: coloumn;
+    height: 30px;
 }
 .home{
     background-color: #FF9B10;
