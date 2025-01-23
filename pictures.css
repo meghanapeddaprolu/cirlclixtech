@@ -15,6 +15,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  width:1368px;
 }
 .inside-content {
   background: linear-gradient(90deg, #103482 0%, #030b1c 99.99%);
@@ -30,7 +31,7 @@ body {
 }
 
 .text {
-  font-size:65px;
+  font-size:75px;
   font-weight: 900;
   font-family: "Inter";
   align-items: center;
@@ -76,41 +77,50 @@ font-weight: 400px;
     background-image: url(pictures/about_us_pic.jpeg);
     background-position: center;
     background-size: cover;
-    width: 1368px;
+    width: 1380px;
 height: 713px;
 top: 987px;
 gap: 0px;
-opacity: 0px;
+opacity: 1px;
+padding-top: 0px;
+display:flex;
+    justify-content: center;
+    
+    flex-direction: row;
+
 
 }
 .about-us{
     display:flex;
     justify-content: center;
+    
+    flex-direction: row;
+    
+    
     color: #002370;
 
-    font-family: Inter;
+    font-family: "Inter";
 font-size: 85px;
 font-weight: 900;
 line-height: 102.87px;
 text-align: center;
 text-underline-position: from-font;
 text-decoration-skip-ink: none;
+background: linear-gradient(180deg, #FFA14A 0%, #D06200 100%);
+size: 612.02px;
 
-
-
-}
-.about-us-contanier{
-    display:flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 612.02px;
+border-radius: 35px 35px 35px 35px;
+width: 612.02px;
 height: 148.72px;
-top: 1021px;
+top: 1035px;
 left: 380.03px;
 gap: 0px;
 border-radius: 35px 35px 35px 35px;
 opacity: 0px;
-background: linear-gradient(180deg, #FFA14A 0%, #D06200 100%);
+align-items: center;
+top:1021px;
+left:380.03px;
+
 
 
 }
