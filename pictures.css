@@ -1,20 +1,116 @@
-.top-back-pic{
-    
-    display: block;
-    width:1368px;
-    height: 558px;
-    top: -43px;
-    padding-bottom: 500px;
-    margin-top: 20px;
-    object-fit:cover; 
-    object-position: centre;
-    background-size: cover;
-    overflow: hidden;
-    
-   
-    
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nova+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lalezar&family=Nova+Mono&display=swap");
+
+body {
+  padding: 0%;
+  margin: 0%;
 }
-.first-pic-img-container{
-    display: block;
-    
+
+.content {
+  background: rgba(0, 35, 112, 1);
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inside-content {
+  background: linear-gradient(90deg, #103482 0%, #030b1c 99.99%);
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(0, 35, 112, 1);
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px 50px 50px 50px;
+  width: 1380px;
+  height: 458px;
+  
+}
+
+.text {
+  font-size:65px;
+  font-weight: 900;
+  font-family: "Inter";
+  align-items: center;
+}
+
+img {
+  width: 467px;
+  height: 393px;
+  border-radius: 38px 38px 38px 38px;
+  opacity: 0px;
+  margin-left: 140px;
+}
+
+.button {
+  background: linear-gradient(90deg, #fe9400 35%, #ffc472 100%);
+  width: 217.77px;
+  height: 43.95px;
+  border-radius: 30px 30px 30px 30px;
+
+  font-family: Lalezar;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 5px;
+  margin-top: 15px;
+  margin-left: 10px;
+  font-family: Lalezar;
+font-weight: 400px;
+}
+
+.text1 {
+  color: rgba(255, 255, 255, 1);
+}
+.text2 {
+  color: rgba(255, 196, 130, 1);
+}
+
+.text3 {
+    color: rgba(255, 255, 255, 1);
+}
+.about-us-image{
+    background-image: url(pictures/about_us_pic.jpeg);
+    background-position: center;
+    background-size: cover;
+    width: 1368px;
+height: 713px;
+top: 987px;
+gap: 0px;
+opacity: 0px;
+
+}
+.about-us{
+    display:flex;
+    justify-content: center;
+    color: #002370;
+
+    font-family: Inter;
+font-size: 85px;
+font-weight: 900;
+line-height: 102.87px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+
+
+}
+.about-us-contanier{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 612.02px;
+height: 148.72px;
+top: 1021px;
+left: 380.03px;
+gap: 0px;
+border-radius: 35px 35px 35px 35px;
+opacity: 0px;
+background: linear-gradient(180deg, #FFA14A 0%, #D06200 100%);
+
+
 }
