@@ -1,20 +1,18 @@
-.buttons{
-    
-    display:block;
-    position: relative;
-    background-color: #D9D9D9;
-    flex-direction: coloumn;
-    height: 30px;
-}
-.home{
-    background-color: #FF9B10;
-    width: 74.67px;
-    height: 32px;
-    top: 430px;
-    left: 17px;
-    border-radius: 10px 10px 10px 10px;
-    opacity: 0px;
-    position: absolute;
-    border-color: none;
 
-}
+.button {
+    background: linear-gradient(90deg, #fe9400 35%, #ffc472 100%);
+    width: 217.77px;
+    height: 43.95px;
+    border-radius: 30px 30px 30px 30px;
+  
+    font-family: Lalezar;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5px;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-family: Lalezar;
+  font-weight: 400px;
+  }

@@ -1,0 +1,137 @@
+.text {
+    font-size:75px;
+    font-weight: 900;
+    font-family: "Inter";
+    align-items: center;
+}
+.text1 {
+    color: rgba(255, 255, 255, 1);
+  }
+  .text2 {
+    color: rgba(255, 196, 130, 1);
+  }
+  
+  .text3 {
+      color: rgba(255, 255, 255, 1);
+  }
+  .about-us{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    color: #002370;
+font-family: "Inter";
+font-size: 85px;
+font-weight: 900;
+line-height: 102.87px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+background: linear-gradient(180deg, #FFA14A 0%, #D06200 100%);
+size: 612.02px;
+border-radius: 35px 35px 35px 35px;
+width: 612.02px;
+height: 148.72px;
+gap: 0px;
+border-radius: 35px 35px 35px 35px;
+opacity: 0px;
+padding-top: 5px;
+margin-top: 25px;
+}
+.about-us-text-container{
+    width: 887px;
+height: 544.61px;
+top: 1095.9px;
+left: 242px;
+gap: 0px;
+border-radius: 65px 65px 65px 65px;
+opacity: 1px;
+ background-color:#E9E9E9D6;
+ color: #FE6A01;
+ 
+}
+.about-us-text{
+    display:block;
+    font-family: Inter,sans-serif;
+    color: #FE6A01;
+    font-size: 47px;
+    font-weight: 900;
+    line-height: 56.88px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    font-family: Permanent Marker;
+    width: 789.63px;
+height: 459.01px;
+top: 1174px;
+left: 277.31px;
+gap: 0px;
+opacity:0 px;
+background-color:#E9E9E9D6;
+
+
+
+
+}
+
+    
+
+.gray-coloured-text{
+   color: #535151;
+   font-family: Inter,sans-serif;
+font-size: 47px;
+font-weight: 900;
+line-height: 56px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+
+}
+.best-marketing{
+    font-family: 'Permanent Marker',cursive;
+    font-size: 47px;
+    font-weight: 400;
+    line-height: 68.48px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
+color: #002370;
+
+}
+.enterprise{
+    color: #FF9B10;
+    
+    
+
+}
+.why-choose-us-contanier{
+    width: 1418px;
+height: 1057px;
+top: 1700px;
+gap: 0px;
+opacity: 0px;
+background-color:  #002370;
+
+}
+.why-choose-us{
+    font-family: Inter;
+font-size: 100px;
+font-weight: 900;
+line-height: 121.02px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #002370;
+width: 1112px;
+height: 209px;
+top: 1775px;
+gap: 0px;
+border-radius: 0px 0px 1000px 0px;
+opacity: 0px;
+background-color: #FF9B10;
+align-items: center;
+
+
+
+}
