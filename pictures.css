@@ -47,13 +47,9 @@ img {
     background-position: center;
     background-size: cover;
     width: 1418px;
-    height: 713px;
-    top: 987px;
-gap: 20px;
-opacity: 1px;
-padding-top: 0px;
+    height: 750px;
 display:flex;
+align-items: center;
 justify-content: center;
-flex-direction: coloumn;
-
+flex-direction: column;
 }
