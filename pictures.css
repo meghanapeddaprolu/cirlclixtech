@@ -15,7 +15,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  width:1368px;
+  width: 1368px;
 }
 .inside-content {
   background: linear-gradient(90deg, #103482 0%, #030b1c 99.99%);
@@ -27,10 +27,7 @@ body {
   border-radius: 50px 50px 50px 50px;
   width: 1380px;
   height: 458px;
-  
 }
-
-
 
 img {
   width: 467px;
@@ -40,16 +37,14 @@ img {
   margin-left: 140px;
 }
 
-
-
-.about-us-image{
-    background-image: url(pictures/about_us_pic.jpeg);
-    background-position: center;
-    background-size: cover;
-    width: 1418px;
-    height: 750px;
-display:flex;
-align-items: center;
-justify-content: center;
-flex-direction: column;
+.about-us-image {
+  background-image: url(pictures/about_us_pic.jpeg);
+  background-position: center;
+  background-size: cover;
+  width: 1418px;
+  height: 750px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
